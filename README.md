@@ -1,2 +1,2 @@
 # JogoSimbaNaAmazoniaEscola
-Jogo feito para um trabalho da minha escola em 2019 quando ouve uma grande queimada na Amazônia.
+Jogo feito para um projeto da minha escola em 2019, quando houve um grande incêndio na Amazônia.
